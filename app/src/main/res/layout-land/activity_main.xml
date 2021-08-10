@@ -94,6 +94,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="112dp"
         android:layout_marginTop="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView4"
         app:layout_constraintTop_toBottomOf="@+id/factBtn" />
 
